@@ -25,4 +25,3 @@ fuction dec(n){
   n --;
   return n;
 }
-}
