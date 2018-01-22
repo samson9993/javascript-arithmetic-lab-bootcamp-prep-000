@@ -20,3 +20,9 @@ function inc(n){
    n ++;
    return n;
 }
+
+fuction dec(n){
+  n --;
+  return n;
+}
+}
